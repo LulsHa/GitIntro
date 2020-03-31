@@ -1,2 +1,2 @@
 This is an introduction to Git and GitHub
-Just created
+And this is addedd from GitHub
